@@ -1,9 +1,9 @@
-# Eutopia - CyberSecurity HomeLab
+# CyberSecurity HomeLab Setup
 
 ## Objective
-Eutopia project aimed to design and implement a fully virtualized and scalable cybersecurity homelab that simulates real-world attack and defense scenarios, enabling hands-on practice in ethical hacking, threat detection, incident response, and malware analysis using industry-standard tools and technologies.
+This project aimed to design and implement a fully virtualized and scalable cybersecurity homelab that simulates real-world attack and defense scenarios, enabling hands-on practice in ethical hacking, threat detection, incident response, and malware analysis using industry-standard tools and technologies.
 
-## 🛠️ Skills Gained by Setting Up the Lab
+## 🛠️ Skills Gained
 
 | 🗂️ Category                          | 🧠 Skills Learned                                                                                                     |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -53,8 +53,7 @@ Eutopia project aimed to design and implement a fully virtualized and scalable c
 
 
 
-
-Eutopia Lab is up 🚀
+Our HomeLab is up 🚀
 
 <img width="1697" height="1108" alt="Done" src="https://github.com/user-attachments/assets/16c0343a-27de-4158-b0bc-231490f699a8" />
 
